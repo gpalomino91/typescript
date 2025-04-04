@@ -1,4 +1,4 @@
-# LeetCode TypeScript Practice
+# TypeScript Practice
 
 This repository contains solutions to LeetCode Easy-level problems implemented in **TypeScript**, organized by topic and pattern. The goal is to strengthen algorithmic thinking, problem-solving, and TypeScript fundamentals for interviews and real-world development.
 
