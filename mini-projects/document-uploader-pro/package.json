@@ -1,0 +1,22 @@
+{
+  "name": "document-uploader-pro",
+  "version": "1.0.0",
+  "description": "**Mini project built with Node.js + TypeScript** that simulates a document upload and processing system. Designed to practice key data structures like `Queue`, `Set`, and `BinaryTree` applied in a real backend environment using Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.1",
+    "@types/node": "^22.14.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.8.3"
+  }
+}
